@@ -1,0 +1,27 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "file",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm install express"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/GuruBlessing/nodeserver/issues/1"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "backend",
+    "node"
+  ],
+  "author": "MAM NBG",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "err": "^2.1.13",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  }
+}
